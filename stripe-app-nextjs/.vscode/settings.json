@@ -1,0 +1,10 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "biomejs.biome",
+  "biome.useWorkspaceDependencies": true,
+  "biome.trace.server": "off",
+  "biome.lint.onSave": true,
+  "biome.format.onSave": true
+}
+
+
